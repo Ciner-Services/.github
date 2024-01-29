@@ -3,8 +3,7 @@
     <img alt="Ruplicx" src="">
 </p>
 
-<p align="center">
-**Cinner Services**
+# <p align="center"><b>Sinner Services</b></p>
 <p align="center">
 We Want To Create A Healthy Environment for (some) students 
 <p align="center">
