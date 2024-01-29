@@ -1,6 +1,6 @@
 <p align="center">
 <a href="Ruplicx">
-    <img alt="Ruplicx" src="">
+    <img alt="Ruplicx" src="https://github.com/Ciner-Services/.github/blob/main/profile/Untitled.png">
 </p>
 
 # <p align="center"><b>Sinner Services</b></p>
