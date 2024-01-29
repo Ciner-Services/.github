@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-# Cinner Services
+**Cinner Services**
 <p align="center">
 We Want To Create A Healthy Environment for (some) students 
 <p align="center">
