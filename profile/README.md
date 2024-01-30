@@ -9,10 +9,10 @@ We Want To Create A Healthy Environment for (some) students
 
 # Navigation
 - [Introduction](#sinner-services)
-- [Installation](#what-we-specialize-in)
-- [Usage](#our-current-projects)
+- [What We Specialize In](#what-we-specialize-in)
+- [Current Projects](#our-current-projects)
 - [Contributing](#contributing)
-- [License](#quotes)
+- [Quotes From Our Team Members](#quotes)
 - [License](#licensing)
 ## What We Specialize In
 ```
