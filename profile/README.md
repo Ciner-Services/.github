@@ -30,9 +30,7 @@ We Want To Create A Healthy Environment for (some) students
 🖥️ SinReady: The best I-Ready Cheating Utility Open Source (must be credited if used)
 ```
 ## Contributing
-<b>Yeuri (yxlvertt)<b/>
-
-Yamil (Blud Has Not Agreed Yet and i don't no his github user)
+<b>(yxlvertt)<b/>
 ## Quotes
 **It's Gonna Be Fun having you the students/people enjoying our crap** `-Al aka Ruplicx`
 
